@@ -1,7 +1,7 @@
 # Codex-gainz
 Built by Codex, for #GAINZ
 
-Build process in order for me: 
+Build process in order:
 Create GitHub repo
 Build Next.js app locally
 Push to GitHub
@@ -12,6 +12,8 @@ Build database tables
 Deploy
 
 **MVP will look like this: **
+
+Prompt for codex: 
 
 🧠 OVERVIEW (WHAT YOU’RE BUILDING)
 
